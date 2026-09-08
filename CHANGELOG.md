@@ -1,3 +1,21 @@
+## 0.70.8 (2026-09-08)
+
+### Fix
+
+- bound the sizes fake() will build for fixed and decimal fields (#969)
+
+## 0.70.7 (2026-08-20)
+
+### Fix
+
+- bound the length of the strings handed to dateutil (#971)
+
+## 0.70.6 (2026-08-18)
+
+### Fix
+
+- security patched
+
 ## 0.70.5 (2026-08-05)
 
 ### Fix
